@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto+Slab:wght@600&family=Roboto:ital@1&display=swap');@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto+Slab:wght@600&family=Roboto:ital@1&display=swap');
+
+.pic{
+    width: 250px;
+    height: 350px;
+    margin: 30px;
+}
+*{
+    background-color: rgb(43, 42, 42);
+    color: aliceblue;
+}
+.middlecontainer,
+.reference,
+.awards{
+    padding: 30px;
+    border-top: 2px solid grey;
+}
+#sai{
+    font-family: 'Roboto Slab', serif;
+    
+}
+.awards{
+    display:flex;
+
+}
+.aq{
+    flex-basis: 70%;
+}
+#ni{
+    width: 30px;
+
+}
+.navlink{
+    left: 200px;
+}
